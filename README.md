@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently studying computer science at the HKA (Karlsruhe, Germany),
+I'm setting up this account to get more in touch with the work life of a full-on software engineer.
+Still looking for a project to start with.
 <!--
 **BonsaiFicus/BonsaiFicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
